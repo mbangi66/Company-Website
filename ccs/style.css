@@ -10,7 +10,7 @@
 /* Home */
 
 .home {
-    background: url("/image/cover.jpg") no-repeat;
+    background: url("./image/cover.jpg") no-repeat;
     background-size: cover;
     height: 100vh;
 }
